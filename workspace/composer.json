@@ -1,0 +1,6 @@
+{
+  "require" : {
+    "braintree/braintree_php" : "3.17.0",
+    "vlucas/phpdotenv": "^2.4"
+  }
+}
